@@ -17,9 +17,7 @@ Fixing any bugs.
 License 📜
 This project is licensed under the MIT License. Feel free to use, modify, and distribute it.
 
-2: 
-
-Snake Game 🐍
+2: Snake Game 🐍
 A simple and interactive Snake game built using Python and the turtle module. Perfect for beginners to explore basic game development concepts and Python programming!
 
 Features:
