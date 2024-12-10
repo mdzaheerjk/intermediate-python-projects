@@ -1,5 +1,3 @@
-from operator import truediv
-
 import google.generativeai as ai
 API_KEY ='ENTER YOUR GEMINI AI API'
 ai.configure(api_key=API_KEY)
