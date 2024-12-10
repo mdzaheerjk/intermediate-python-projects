@@ -32,3 +32,17 @@ Future Improvements:
 Add levels with increasing difficulty.
 Integrate a leaderboard for high scores.
 Implement customizable themes.
+
+3:Gemini API Chatbot 🤖
+A smart and interactive chatbot powered by the Gemini API, designed to provide accurate and dynamic responses. This project demonstrates seamless integration of APIs with a user-friendly conversational interface.
+
+Features 🚀
+API-Powered Intelligence: Leverages the Gemini API for real-time data and responses.
+User-Friendly: Interactive and intuitive chat experience.
+Customizable: Easily adapt the chatbot for various applications like customer support, personal assistance, or information retrieval.
+Scalable Design: Built with scalability in mind for handling multiple users.
+Technologies Used 💻
+Backend: Python (Flask/Django/FastAPI)
+Frontend: HTML, CSS, JavaScript
+API Integration: Gemini API
+Deployment: Docker/Heroku/AWS (Optional)
