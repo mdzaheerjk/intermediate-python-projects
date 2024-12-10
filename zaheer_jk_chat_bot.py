@@ -1,7 +1,7 @@
 from operator import truediv
 
 import google.generativeai as ai
-API_KEY ='AIzaSyBDwbNGbJN5XXz1tksGSL5w9NXyeswraww'
+API_KEY ='ENTER YOUR GEMINI AI API'
 ai.configure(api_key=API_KEY)
 model = ai.GenerativeModel("gemini-pro")
 chat = model.start_chat()
